@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/francis-asdf/adaptive-study-app#readme",
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^5.2.1",
     "pg": "^8.20.0"
   },
